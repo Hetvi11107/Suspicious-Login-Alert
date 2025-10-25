@@ -37,9 +37,5 @@ It is built using **Tkinter (for GUI)** and **Requests (for IP geolocation)**.
 ---
 
 ## 📸 Project Interface
-![App Screenshot](<![alt text](image.png)>)
+![App Screenshot](image.png)
 
----
-
-## 🧪 Example Output
-**Normal Login**
